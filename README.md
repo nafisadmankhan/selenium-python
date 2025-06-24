@@ -11,8 +11,8 @@ Follow the steps below to set up and run the project locally.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nafisadmankhan/selenium-python.git
+cd selenium-python
 ```
 
 ## 2. (Optional) Create and Activate a Virtual Environment
