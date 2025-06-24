@@ -17,15 +17,15 @@ cd your-repo-name
 
 ## 2. (Optional) Create and Activate a Virtual Environment
 
-### Create a virtual environment named 'venv'
+#### Create a virtual environment named 'venv'
 ```
 python -m venv venv
 ```
-### Activate on Windows
+#### Activate on Windows
 ```
 venv\Scripts\activate
 ```
-### Activate on macOS/Linux
+#### Activate on macOS/Linux
 ```
 source venv/bin/activate
 ```
