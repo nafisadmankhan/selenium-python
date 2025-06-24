@@ -18,15 +18,19 @@ cd your-repo-name
 ## 2. (Optional) Create and Activate a Virtual Environment
 
 ### Create a virtual environment named 'venv'
+```
 python -m venv venv
-
+```
 ### Activate on Windows
+```
 venv\Scripts\activate
-
+```
 ### Activate on macOS/Linux
+```
 source venv/bin/activate
-
+```
 ## 3. Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 ✅ You’re all set! You can now run or develop the project as needed.
