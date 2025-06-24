@@ -48,9 +48,9 @@ pip install -r requirements.txt
 ✅ You’re all set! You can now run or develop the project as needed.
 
 ## 🧾 Practice Tasks
-### a. Google
+### 1. Google
 Open google.com and select the elements using the driver. Do a Google search using the driver.
-### b. Weather
+### 2. Weather
 Extract weather information from bmd.gov.bd.
-### c. Log In
+### 3. Log In
 Login to ucam.uiu.ac.bd using Selenium.
