@@ -10,9 +10,9 @@ This project was built using **Python 3.13.5**.
   - [2. Create and Activate a Virtual Environment](#2-optional-create-and-activate-a-virtual-environment)
   - [3. Install Dependencies](#3-install-dependencies)
 - [Practice Tasks](#-practice-tasks)
-  - a. Clone the Repository
-  - b. Create and Activate a Virtual Environment
-  - c. Install Dependencies
+  - [a. Google](
+  - [b. Weather]
+  - [c. Log In]
 
 ## 🧾 Getting Started
 
@@ -48,6 +48,9 @@ pip install -r requirements.txt
 ✅ You’re all set! You can now run or develop the project as needed.
 
 ## 🧾 Practice Tasks
-a. Open google.com and select the elements using the driver. Do a Google search using the driver.
-b. Extract weather information from bmd.gov.bd.
-c. Login to ucam.uiu.ac.bd using Selenium.
+#### a. Google
+Open google.com and select the elements using the driver. Do a Google search using the driver.
+#### b. Weather
+Extract weather information from bmd.gov.bd.
+#### c. Log In
+Login to ucam.uiu.ac.bd using Selenium.
