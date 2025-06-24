@@ -10,9 +10,9 @@ This project was built using **Python 3.13.5**.
   - [2. Create and Activate a Virtual Environment](#2-optional-create-and-activate-a-virtual-environment)
   - [3. Install Dependencies](#3-install-dependencies)
 - [Practice Tasks](#-practice-tasks)
-  - [a. Google](
-  - [b. Weather]
-  - [c. Log In]
+  - [a. Google](####-a.-Google)
+  - [b. Weather](####-b.-Weather)
+  - [c. Log In](####-c.-Log-In)
 
 ## 🧾 Getting Started
 
@@ -20,14 +20,14 @@ Follow the steps below to set up and run the project locally.
 
 ---
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/nafisadmankhan/selenium-python.git
 cd selenium-python
 ```
 
-## 2. (Optional) Create and Activate a Virtual Environment
+### 2. (Optional) Create and Activate a Virtual Environment
 
 #### Create a virtual environment named 'venv'
 ```
@@ -41,7 +41,7 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
-## 3. Install Dependencies
+### 3. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
