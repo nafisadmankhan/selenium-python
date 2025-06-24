@@ -10,9 +10,9 @@ This project was built using **Python 3.13.5**.
   - [2. Create and Activate a Virtual Environment](#2-optional-create-and-activate-a-virtual-environment)
   - [3. Install Dependencies](#3-install-dependencies)
 - [Practice Tasks](#-practice-tasks)
-  - [a. Clone the Repository](#1-clone-the-repository)
-  - [b. Create and Activate a Virtual Environment](#2-optional-create-and-activate-a-virtual-environment)
-  - [c. Install Dependencies](#3-install-dependencies)
+  - a. Clone the Repository
+  - b. Create and Activate a Virtual Environment
+  - c. Install Dependencies
 
 ## 🧾 Getting Started
 
