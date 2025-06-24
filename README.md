@@ -10,9 +10,9 @@ This project was built using **Python 3.13.5**.
   - [2. Create and Activate a Virtual Environment](#2-optional-create-and-activate-a-virtual-environment)
   - [3. Install Dependencies](#3-install-dependencies)
 - [Practice Tasks](#-practice-tasks)
-  - [a. Google](#1-Google)
-  - [b. Weather](#2-Weather)
-  - [c. Log In](#3-Log-In)
+  - [a. Google](#1-google)
+  - [b. Weather](#2-weather)
+  - [c. Log In](#3-log-in)
 
 ## 🧾 Getting Started
 
